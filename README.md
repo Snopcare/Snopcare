@@ -13,7 +13,7 @@ I'm fluent in analogue languages PL, EN, DE, ES.
 
 *   🌍  I'm based in Wrocław
 *   ✉️  You can contact me at [b.snopko@hotmail.com](mailto:b.snopko@hotmail.com)
-*   🧠  I'm learning Web Development with ZTM zerotomastery.io
+*   🧠  I'm learning Web Development with ZTM zerotomastery.io and Python with Tim Buchalka's Course
 *   🤝  I'm open to collaborating on Web projects promoting regional crafts / homemade stuff### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
