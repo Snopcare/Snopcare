@@ -9,7 +9,7 @@ So now I´m on parental leave since 1.09.22 learning new skills in baby manageme
 
 My goal is to become a successful Full Stack Developer and challenge myself in making business ideas a reality. 
 
-I'm fluent in analogue languages PL, EN, DE, ES.
+I'm fluent in vocal languages PL, EN, DE, ES.
 
 *   🌍  I'm based in Wrocław, Poland.
 *   ✉️  You can contact me at [b.snopko@hotmail.com](mailto:b.snopko@hotmail.com)
