@@ -12,7 +12,7 @@ My goal is to become a successful Full Stack Developer and challenge myself in m
 I'm fluent in vocal languages PL, EN, DE, ES.
 
 *   🌍  I'm based in Wrocław, Poland.
-*   🧠  I'm learning Javascript 
+*   🧠  I'm mastering Javascript 
 *   🤝  I'm open to collaborating on Web projects promoting regional crafts / homemade stuff
 
 ### Skills 
