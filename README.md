@@ -12,8 +12,7 @@ My goal is to become a successful Full Stack Developer and challenge myself in m
 I'm fluent in vocal languages PL, EN, DE, ES.
 
 *   🌍  I'm based in Wrocław, Poland.
-*   ✉️  You can contact me at [b.snopko@hotmail.com](mailto:b.snopko@hotmail.com)
-*   🧠  I'm learning Web Development with ZTM zerotomastery.io and Python with Tim Buchalka's Course
+*   🧠  I'm learning Javascript 
 *   🤝  I'm open to collaborating on Web projects promoting regional crafts / homemade stuff
 
 ### Skills 
