@@ -13,7 +13,6 @@ I'm fluent in vocal languages PL, EN, DE, ES.
 
 *   🌍  I'm based in Wrocław, Poland.
 *   🧠  I'm mastering Javascript 
-*   🤝  I'm open to collaborating on Web projects promoting regional crafts / homemade stuff
 
 ### Skills 
 <p align="left">
